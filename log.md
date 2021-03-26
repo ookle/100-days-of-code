@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+doing this 100 day challenge as a newbie, nothing interesting to see here, just want to challenge myself to learn.
+
 
 ### Day 1: March 26, Friday 2021
 
