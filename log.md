@@ -1,30 +1,36 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: March 26, Friday 2021
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Completed the exercises and quiz for wk 9 of how to code: complex data. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+learnt about abstract functions, when and how to use them with recursive function templates, like with lists and arbitrary arity trees
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+last night was confused as hell at 9pm by abstraction until I realised theres a difference between using it to create a function template for a fold function, and factoring out code from two similar functions.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+this course is making me a lot more aware of recursivity
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. coursework for wk 9 https://github.com/ookle/HowToCode/tree/main/complex%20data/09
+2. quiz for wk 9 https://github.com/ookle/HowToCode/blob/main/complex%20data/09/abstraction-quiz.rkt
+
+
+### Day 2: March 27, Sat 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 3: March 28, Sun 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
